@@ -1,0 +1,154 @@
+{
+  "Header": {
+    "title": "BluePrint",
+    "paragraph": "Design your dream Home with us ."
+  },
+ "About": {
+    "paragraph": "BluePrint is an innovative AI-driven home design platform that empowers homeowners to create their dream spaces with ease. By integrating artificial intelligence, real-time cost management, and climate-conscious recommendations, BluePrint transforms the home design process into a seamless, personalized, and budget-friendly experience. Whether you're a homeowner looking for inspiration or a vendor providing essential services, BluePrint connects you with the right tools and resources to bring your vision to life.",
+    "Why": [
+      "AI-powered personalized home designs",
+      "Real-time cost management for budget control",
+      "Climate-specific material recommendations",
+      "Seamless integration with local vendors"
+    ],
+    "Why2": [
+      "User-friendly mobile application for iOS & Android",
+      "Community-driven inspiration gallery",
+      "Role-based access for homeowners and vendors",
+      "Eco-friendly and sustainable design solutions"
+    ]
+  },
+
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+"Features": [
+    {
+      "icon": "fa fa-magic",
+      "title": "AI-Powered Personalization",
+      "text": "Leverage AI to receive tailored home design recommendations based on your preferences, from layout styles to space optimization, ensuring a home that truly fits your vision."
+    },
+    {
+      "icon": "fa fa-dollar",
+      "title": "Real-Time Cost Management",
+      "text": "Modify your home design and instantly see cost adjustments to keep your project within budget. Stay in control with real-time pricing updates for materials and layouts."
+    },
+    {
+      "icon": "fa fa-leaf",
+      "title": "Climate-Specific Suggestions",
+      "text": "Get eco-friendly building material recommendations based on your local climate, ensuring durability, energy efficiency, and sustainability in your home design."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Integration with Local Suppliers",
+      "text": "Seamlessly connect with local contractors and material suppliers to source everything needed for your home construction, making the process smooth and efficient."
+    }
+  ]
+}
