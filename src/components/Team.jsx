@@ -12,13 +12,13 @@ export const Team = () => {
       name: "Induwara Jayakody",
       job: "Frontend Developer / Backend Developer",
       img: "/img/team/02.jpg",
-      linkedin: "https://www.linkedin.com/in/induwara-jayakody"
+      linkedin: "http://www.linkedin.com/in/induwara-jayakody-21a478303"
     },
     {
       name: "Sineth Wickramarachchi",
       job: "Web Developer / Frontend Developer",
       img: "/img/team/03.jpg",
-      linkedin: "https://www.linkedin.com/in/sineth-wickramarachchi-b45b11292/"
+      linkedin: "https://www.linkedin.com/in/sineth-wickramarachchi"
     },
     {
       name: "Supundi Gooneratne",
